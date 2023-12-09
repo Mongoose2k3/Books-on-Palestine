@@ -4,7 +4,10 @@
 
 # Books-on-Palestine
 
-
+# Steps to Download a document
+1. Click on the (Go to file) button
+2. Click on the desired document
+3. Use the ... button to access the download option
 
 
 
