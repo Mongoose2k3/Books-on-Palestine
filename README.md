@@ -7,7 +7,10 @@
 # Steps to Download a document
 1. Click on the (Go to file) button
 2. Click on the desired document
-3. Use the ... button to access the download option
+3. Use the (...) button to access the download option
+
+   ![HowToDownload-20231209](https://github.com/Mongoose2k3/Books-on-Palestine/assets/151067484/a6ec6043-d3e9-4471-a14c-1a13c9d06e04)
+
 
 
 
